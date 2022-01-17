@@ -1,3 +1,4 @@
+//footer page
 import React from 'react';
 import './Footer.css';
 import { Button } from './Button';
